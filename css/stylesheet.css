@@ -1,0 +1,85 @@
+body {
+  background-image:
+    linear-gradient(115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)),
+    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin: 3.125em auto 0.125em auto;
+  font-size: 2em;
+}
+
+h2 {
+  text-align: center;
+  margin: 0 auto 0.625em auto;
+  font-style: italic;
+  font-size: 1.2em;
+  font-weight: 100;
+}
+
+.main {
+  background-color: #21213a;
+  border-radius: 0.3125em;
+  margin: auto;
+  width: 70%;
+}
+
+.form-main {
+  padding: 1.875em 0 2.5em 1.875em;
+}
+
+.form-each {
+  padding: 20px;
+}
+
+.label-main {
+  font-size: 1.2em;
+  font-weight: 400;
+  line-height: 0;
+}
+
+.text-box {
+  width: 90%;
+  height: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.dropdown {
+  width: 97%;
+  height: 44px;
+  padding: 10px;
+  font-size: 1em;
+  font-weight: 100;
+  color: grey;
+}
+
+.pholderv{
+    font-family: 'Poppins', sans-serif;
+}
+
+.radi {
+  padding: 0;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.cbox {
+  font-size: 1em;
+  font-weight: 100;
+}
+
+.tarea {
+  font-size: 1em;
+  font-weight: 100;
+  color: grey;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
